@@ -1,7 +1,7 @@
 //Coin change 2
 //Time Complexity : O(m*n)
 //Space Complexity : O(n)
-class Solution {
+class Solution2 {
     public int change(int amount, int[] coins) {
         int m = coins.length;
         int n= amount;
